@@ -1,0 +1,17 @@
+{
+  "name": "part-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "module": "commonjs",
+  "dependencies": {
+    "puppeteer": "^20.8.2"
+
+  }
+}
